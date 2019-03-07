@@ -1,3 +1,1 @@
-git init ..
-
-lulu come on
+ up
